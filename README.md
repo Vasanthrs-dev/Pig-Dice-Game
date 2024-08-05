@@ -10,7 +10,7 @@ This repository contains a project for the Pig (Dice Game). The game is built us
 - [Technologies Used](#technologies-used)
 
 ## Demo
-You can view the live demo of the Pig (Dice Game) [here](https://your-live-demo-link.com).
+You can view the live demo of the Pig (Dice Game) [here]([https://your-live-demo-link.com](https://vasanthrs-dev.github.io/Pig-Dice-Game/)).
 
 ## Screenshots
 ![1](https://github.com/user-attachments/assets/565052cf-50a8-4aa3-b4f3-9aee88d4bb0e)
